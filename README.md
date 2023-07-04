@@ -1,3 +1,3 @@
 # SUGAR
 
-the code of SUGAR will be updated soon
+The codes and the pretrained model of SUGAR will be updated soon
