@@ -110,4 +110,5 @@ python3 predict.py \
 ```
 
 # Training
-Coming soon...
+
+[Training Code](https://github.com/pBFSLab/SUGAR/tree/main/train)
